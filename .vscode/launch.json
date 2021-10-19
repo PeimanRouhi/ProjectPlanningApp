@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    
+
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Project Planning App",
+            "server": "https://businesscentral.dynamics.com/",
+            "tenant": "8237fb58-c37f-4017-811c-a32663dbdbc7",
+            "schemaUpdateMode": "Synchronize", 
+            "environmentName": "CDX_PR_20210820",
+            "environmentType": "Sandbox",   
+            "launchBrowser": false
+
+        }
+
+    ]
+}

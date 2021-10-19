@@ -1,0 +1,27 @@
+{
+  "id": "67e6cf25-4000-4d18-bbf1-e27b7bd55e69",
+  "name": "ENC Project Planning App",
+  "publisher": "Encore Business Solutions",
+  "brief": "Project Planning app",
+  "description": "Library, Tables and Reports created by Encore Business Solutions for *** Client Name *** deployed on Business Central.",
+  "version": "1.7.18.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://www.encorebusiness.com/solutions/microsoft-dynamics-nav/",
+  "logo": "EncoreLogo.jpg",
+  "dependencies": [
+    
+  ],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+    "from": 75000,
+    "to": 75999
+  }
+],
+  "showMyCode": true,
+  "runtime": "6.0"
+}
